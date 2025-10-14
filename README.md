@@ -48,6 +48,7 @@ My goal is to become a skilled data scientist and work on impactful projects in 
 - [ ] Contribute to open source
 - [ ] Create a professional website
 
+##  Sample Code
 ```cpp
 #include <iostream>
 using namespace std;
