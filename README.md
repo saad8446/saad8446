@@ -1,6 +1,6 @@
 #  Hi, I'm Muhammad Saad
 
-![Banner](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
+![GIF Banner](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
 
 ##  About Me
 **Name:** Muhammad Saad  
@@ -47,6 +47,17 @@ My goal is to become a skilled data scientist and work on impactful projects in 
 - [ ] Learn Python
 - [ ] Contribute to open source
 - [ ] Create a professional website
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello GitHub!";
+    return 0;
+}
+```
+
 
 ##  Contact Me
 - Email: [msaaad8484@gmail.com](mailto:msaaad8484@gmail.com)  
