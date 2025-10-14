@@ -1,6 +1,6 @@
 #  Hi, I'm Muhammad Saad
 
-![Banner](https://i.imgur.com/8h5xGgE.png)
+![Banner](https://i.imgur.com/hz5ERmA.png)
 
 ##  About Me
 **Name:** Muhammad Saad  
@@ -31,11 +31,11 @@ My goal is to become a skilled data scientist and work on impactful projects in 
 
 | Project Name | Description | Tech Used |
 |--------------|-------------|-----------|
-| 🚀 My First Rep | > A simple beginner-level project where I learned Git and GitHub basics. | Git, GitHub |
-| 🌐 Web Project (HTML & CSS) | > A basic personal website to practice layouts and styling. | HTML, CSS |
-| 📊 Data Science Practice | > Practicing Python libraries for data analysis and visualization. | Python, Pandas |
-| 🧮 Calculator App | > A simple calculator program to understand logic building and basic programming concepts. | C++, Basic Programming |
-| 🧾 Student Record System | > A small project to manage and display student data with basic operations. | C++, File Handling |
+| 🚀 My First Rep | A simple beginner-level project where I learned Git and GitHub basics. | Git, GitHub |
+| 🌐 Web Project (HTML & CSS) | A basic personal website to practice layouts and styling. | HTML, CSS |
+| 📊 Data Science Practice | Practicing Python libraries for data analysis and visualization. | Python, Pandas |
+| 🧮 Calculator App | A simple calculator program to understand logic building and basic programming concepts. | C++, Basic Programming |
+| 🧾 Student Record System | A small project to manage and display student data with basic operations. | C++, File Handling |
 
 ##  Quote
 > “Success doesn’t come to you, you go to it.”
