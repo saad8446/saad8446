@@ -10,18 +10,18 @@ I’m passionate about learning new technologies and improving my problem-solvin
 My goal is to become a skilled data scientist and work on impactful projects in the tech industry.
 
 ## 🛠️ Skills
-1. Python 🐍
-2. C++
-3. HTML & CSS 🌐 
-4. Git & GitHub 🧑‍💻
-5. Data Science
+- Python 🐍
+- C++
+- HTML & CSS 🌐 
+- Git & GitHub 🧑‍💻
+- Data Science
 
 ##  My GitHub Repositories
-- [Sample Repo](https://github.com/saad8446/my-repo.git)  
+1. [Sample Repo](https://github.com/saad8446/my-repo.git)  
   > I made this repo just for checking.
-- [My First REPO](https://github.com/saad8446/my-first-repo.git)  
+2. [My First REPO](https://github.com/saad8446/my-first-repo.git)  
   > A simple beginner-level project where I learned how to use Git and GitHub — including creating repositories, committing changes, and pushing files.
-- [WEB Development Project](https://github.com/saad8446/Html_project.git)  
+3. [WEB Development Project](https://github.com/saad8446/Html_project.git)  
   > A basic personal website built with HTML and CSS to practice web design, layouts, and styling.
 
 ## 📊 GitHub Stats
@@ -31,11 +31,11 @@ My goal is to become a skilled data scientist and work on impactful projects in 
 
 | Project Name | Description | Tech Used |
 |--------------|-------------|-----------|
-| 🚀 My First Rep | > A simple beginner-level project where I learned Git and GitHub basics. | Git, GitHub |
-| 🌐 Web Project (HTML & CSS) | > A basic personal website to practice layouts and styling. | HTML, CSS |
-| 📊 Data Science Practice | > Practicing Python libraries for data analysis and visualization. | Python, Pandas |
-| 🧮 Calculator App | > A simple calculator program to understand logic building and basic programming concepts. | C++, Basic Programming |
-| 🧾 Student Record System | > A small project to manage and display student data with basic operations. | C++, File Handling |
+| 🚀 My First Rep | A simple beginner-level project where I learned Git and GitHub basics. | Git, GitHub |
+| 🌐 Web Project (HTML & CSS) | A basic personal website to practice layouts and styling. | HTML, CSS |
+| 📊 Data Science Practice | Practicing Python libraries for data analysis and visualization. | Python, Pandas |
+| 🧮 Calculator App | A simple calculator program to understand logic building and basic programming concepts. | C++, Basic Programming |
+| 🧾 Student Record System | A small project to manage and display student data with basic operations. | C++, File Handling |
 
 ##  Quote
 > “Success doesn’t come to you, you go to it.”
