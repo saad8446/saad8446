@@ -49,5 +49,5 @@ My goal is to become a skilled data scientist and work on impactful projects in 
 - [ ] Create a professional website
 
 ##  Contact Me
-- [Email](mailto:msaaad8484@gmail.com)  
-- [Instagram](https://www.instagram.com/m_saad_8446?igsh=MXBmcHM4MTN4N3Nkag==)
+- Email: [msaaad8484@gmail.com](mailto:msaaad8484@gmail.com)  
+- Instagram [m_saad_8446](https://www.instagram.com/m_saad_8446?igsh=MXBmcHM4MTN4N3Nkag==)
