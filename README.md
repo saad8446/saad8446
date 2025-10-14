@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Muhammad Saad
 
-<!--
-**saad8446/saad8446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.imgur.com/8h5xGgE.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me
+**Name:** Muhammad Saad  
+*Student at Punjab University, BS Data Science*  
+ 
+I’m passionate about learning new technologies and improving my problem-solving skills.  
+My goal is to become a skilled data scientist and work on impactful projects in the tech industry.
+
+# Skills
+- Python 🐍
+- C++
+- HTML & CSS 🌐 
+- Git & GitHub 🧑‍💻
+- Data Science
+
+# My GitHub Repositories
+- [Sample Repo](https://github.com/saad8446/my-repo.git)> I made this repo just for checking.
+- [My First REPO](https://github.com/saad8446/my-first-repo.git)> A simple beginner-level project where I learned how to use Git and GitHub — including creating repositories, committing changes, and pushing files.
+- [WEB Development Project](https://github.com/saad8446/Html_project.git)> A basic personal website built with HTML and CSS to practice web design, layouts, and styling.
+
+
+#  GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad8446&show_icons=true&theme=radical)
+
+# Projects & Experience
+
+|  Project Name | Description  | Tech Used   |
+|-----------------|------------------|------------------|
+| 🚀 My First Rep | > A simple beginner-level project where I learned Git and GitHub basics.| Git, GitHub|
+| 🌐 Web Project (HTML & CSS)| > A basic personal website to practice layouts and styling. | HTML, CSS   |
+| 📊 Data Science Practice | > Practicing Python libraries for data analysis and visualization. | Python, Pandas |
+| 🧮 Calculator App | > A simple calculator program to understand logic building and basic programming concepts. | C++, Basic Programming |
+| 🧾 Student Record System| > A small project to manage and display student data with basic operations.| C++, File Handling  |
+              
+
+#Quote
+> “Success doesn’t come to you, you go to it.”
+
+
+# Goals Checklist
+- [x] Learn C++
+- [x] Learn Git and GitHub
+- [x] Build my first project
+- [ ] Learn Python
+- [ ] Contribute to open source
+- [ ] Create a professional website
+
+# Contact Me
+- [Email](msaaad8484@gmail.com)  
+- [Instagram](https://www.instagram.com/m_saad_8446?igsh=MXBmcHM4MTN4N3Nkag==)  
+   
+
+
+
+
