@@ -25,7 +25,7 @@ My goal is to become a skilled data scientist and work on impactful projects in 
   > A basic personal website built with HTML and CSS to practice web design, layouts, and styling.
 
 ## 📊 GitHub Stats
-![Muhammad Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad8446&show_icons=true&theme=radical)
+![Muhammad Saad GitHub stats](https://github-readme-stats.vercel.app/api?username=saad8446&show_icons=true&theme=radical)
 
 ## 🧾 Projects & Experience
 
